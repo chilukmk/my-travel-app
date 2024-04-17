@@ -30,4 +30,8 @@ To use the Travel Planner App, simply follow these steps:
 
 ## Demo Video
 
-[Include a short demo video showcasing the app's functionality here]
+https://github.com/chilukmk/my-travel-app/assets/167351169/2bbb2079-7d16-4e76-83e2-d4e12bef9de3
+
+
+
+
